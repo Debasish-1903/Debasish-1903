@@ -18,5 +18,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debasish-1903&show_icons=true&locale=en&layout=compact" alt="debasish-1903" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debasish-1903&show_icons=true&locale=en" alt="debasish-1903" /></p>
+
 
